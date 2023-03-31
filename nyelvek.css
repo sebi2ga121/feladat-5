@@ -75,7 +75,7 @@ body{
 
 
 
-h1 h2{
+h1, h2{
 	font-size: large;
 	color: red;
 }
@@ -83,7 +83,7 @@ h1 h2{
 #f_vonal{
 	width: 800px;
 	height: 6px;
-	color: green;
+	background-color: green;
 }
 
 ul{
